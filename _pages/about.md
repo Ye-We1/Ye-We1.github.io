@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ye Wei and this is my personal website.
+Hello everyone! My name is Ye Wei. I have just received a B.S. in Electrical and Computer Engineering from Shanghai Jiao Tong University this year, and I will start to pursue my Ph.D. degree in Computer Science at Loughborough University this fall.
 
 
