@@ -27,7 +27,19 @@ Projects
   * Silver Award in the Winter Design Expo, UM-SJTU Joint Institute, Shanghai Jiao Tong University
   * Second Prize in the Seventh Qian Xuesen Cup, Shanghai Jiao Tong Univeristy
   * Use Java to design an App on our Android Phone, and realize the communication between our App and DJI M600 Pro Drone directly via 5G network, which helps users get rid of the controllers.
-  * Supervisor: Professor Chong Han, Professor Jigang Wu and Mr Jianrong Xiao.
+  * Supervisor: Professor Chong Han, Professor Jigang Wu and Mr Jianrong Xiao
+
+* Fall 2019: MIPS computer in Verilog
+  * Model both single cycle and pipelined implementation of MIPS computer in Verilog.
+  * Support a subset of MIPS instruction, including memory-reference instructions(save&load), arithmeticlogical instructions(add, sub, slt, etc.) and jumping instructions(beq, jump, etc.).
+  * Instructor: Professor Gang Zheng
+
+Skills
+======
+* Technical Skills
+  * Python, C/C++, Matlab, Verilog, NI Multisim, JavaScript, Arduino; LaTeX
+* Language
+  * Mandarin(Native), English
 
 <!-- Work experience
 ======
@@ -41,15 +53,6 @@ Projects
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 <!-- Publications
 ======
   <ul>{% for post in site.publications %}
