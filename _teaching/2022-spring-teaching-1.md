@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Loughborough University, Department of Computer Science"
-date: 2022
+date: 2022-01-01
 location: "Loughborough, UK"
 ---
 
