@@ -11,25 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2021
-* Ph.D. in Computer Science, Loughborough University, 2025 (expected)
+* BSc in Electrical and Computer Engineering, Shanghai Jiao Tong University (Sept. 2017 – Aug. 2021)
+* PhD research at Department of Computer Science, Loughborough University (Oct. 2021 - Present)
+  * Supervised by Dr Hui Fang and Dr Haitao He
 
 Research experience
 ======
-* Fall 2019 - Summer 2021: Research Assistant
+* Oct. 2021 - Present: Phd Research
+  * Using MATSim, an agent-based modelling framework, to implement transportation simulation
+  * Visualisation and classification of Origin-Destination (OD) matrix in different time intervals by applying dimension reduction techniques to OD dataset provided by Telefonica
+  * Spatial-temporal traffic prediction based on Graph Neural Network (GNN)
+* Oct. 2019 - Sept. 2021: Research Assistant
   * Advanced Network Laboratory, Shanghai Jiao Tong University
   * Work on the combination of machine learning skills and mobile crowdsourcing.
   * Supervisor: Professor Xiaofeng Gao
 
 Projects
 ======
-* Fall 2020: 5G Network Drone
+* Dec. 2020: 5G Network Drone
   * Silver Award in the Winter Design Expo, UM-SJTU Joint Institute, Shanghai Jiao Tong University
   * Second Prize in the Seventh Qian Xuesen Cup, Shanghai Jiao Tong Univeristy
   * Use Java to design an App on our Android Phone, and realize the communication between our App and DJI M600 Pro Drone directly via 5G network, which helps users get rid of the controllers.
   * Supervisor: Professor Chong Han, Professor Jigang Wu and Mr Jianrong Xiao
 
-* Fall 2019: MIPS computer in Verilog
+* Nov. 2019: MIPS computer in Verilog
   * Model both single cycle and pipelined implementation of MIPS computer in Verilog.
   * Support a subset of MIPS instruction, including memory-reference instructions(save&load), arithmeticlogical instructions(add, sub, slt, etc.) and jumping instructions(beq, jump, etc.).
   * Instructor: Professor Gang Zheng
