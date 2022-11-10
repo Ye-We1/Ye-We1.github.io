@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! My name is Ye Wei. I have just received a B.S. in Electrical and Computer Engineering from Shanghai Jiao Tong University this year, and I will start to pursue my Ph.D. degree in Computer Science at Loughborough University this fall.
+Hello everyone! My name is Ye Wei and I am currently a second year PhD student at Loughborough University. My PhD research is about graph neural networks (GNNs), agent-based modelling, and mobility.
 
 
