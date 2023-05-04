@@ -8,9 +8,13 @@ date: 2023-01-01
 location: "Loughborough, UK"
 ---
 
-As a Teaching Assistant for the Computer Animation Module at Loughborough University, I played an active role in supporting undergraduate students in their journey to understand and master the fundamentals of computer-generated animations. My main responsibilities during the course included:
 
-* Providing guidance to students on the concepts and principles of widely-used computer animation algorithms, ensuring they were able to grasp the material effectively.
-* Assisting students during lab sessions as they worked with MATLAB for programming, answering their questions, and helping them troubleshoot any issues they encountered.
-* Facilitating an engaging and supportive learning environment that allowed students to experiment with different animation techniques and fostered their creativity and problem-solving skills.
+As a Teaching Assistant for the Applied Machine Learning Module, my primary goal is to support postgraduate students in their journey to understand and master various machine learning techniques and their applications. I strive to create a stimulating and engaging learning environment, where students can develop their skills and knowledge in order to tackle real-world problems using both classical machine learning and deep learning methods. My key responsibilities during the course include:
+
+* Clarifying complex concepts and principles related to machine learning, ensuring students fully comprehend the material and can effectively apply these techniques to diverse scenarios.
+* Offering guidance and support during lab sessions, answering questions, and assisting students as they work with various machine learning tools and programming languages, such as Python, scikit-learn, TensorFlow, and Keras.
+* Providing constructive feedback on their lab works, including designing machine learning pipelines and working with Convolutional Neural Networks for image analysis, enabling students to refine their problem-solving and analytical skills.
+* Encouraging collaborative learning and fostering an inclusive environment, where students feel comfortable sharing their ideas and asking questions, ultimately contributing to their academic and professional growth.
+
+By actively engaging with students and providing comprehensive support, I aim to facilitate a productive learning experience that nurtures their passion for machine learning and prepares them for success in their future endeavors.
 
