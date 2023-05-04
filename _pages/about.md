@@ -24,7 +24,7 @@ Hello and welcome to my personal website! My name is Ye Wei, and I am currently 
 
 ## Background
 
-I began my academic journey with a strong foundation in Computer Science, completing my Bachelor's degree at Shanghai Jiao Tong University. During these years, I developed a keen interest in leveraging advanced machine learning and deep learning techniques to address complex problems in the field.
+I began my academic journey with a strong foundation in Electrical and Computer Engineering, completing my Bachelor's degree at Shanghai Jiao Tong University. During these years, I developed a keen interest in leveraging advanced machine learning and deep learning techniques to address complex problems in the field.
 
 ## Collaborations and Goals
 
