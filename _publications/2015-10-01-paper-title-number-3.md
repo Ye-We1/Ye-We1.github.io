@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 3"
+title: "Traffic4cast at NeurIPS 2022 -- Predict Dynamics along Graph Edges from Sparse Node Data: Whole City Traffic and ETA from Stationary Vehicle Detectors"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-t4c22
+excerpt: 'Pre-print under review, submitted to Proceedings of Machine Learning Research'
+date: 2023-01-01
+venue: 'Arxiv: Machine Learning (cs.LG)'
+paperurl: 'https://arxiv.org/abs/2303.07758'
+citation: '@misc{neun2023traffic4cast,
+      title={Traffic4cast at NeurIPS 2022 -- Predict Dynamics along Graph Edges from Sparse Node Data: Whole City Traffic and ETA from Stationary Vehicle Detectors}, 
+      author={Moritz Neun and Christian Eichenberger and Henry Martin and Markus Spanring and Rahul Siripurapu and Daniel Springer and Leyan Deng and Chenwang Wu and Defu Lian and Min Zhou and Martin Lumiste and Andrei Ilie and Xinhua Wu and Cheng Lyu and Qing-Long Lu and Vishal Mahajan and Yichao Lu and Jiezhang Li and Junjun Li and Yue-Jiao Gong and Florian Grötschla and Joël Mathys and Ye Wei and He Haitao and Hui Fang and Kevin Malm and Fei Tang and Michael Kopp and David Kreil and Sepp Hochreiter},
+      year={2023},
+      eprint={2303.07758},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+This paper highlights the Traffic4cast 2022 competition, a platform leveraging machine learning to model intricate spatial systems over time. The competition emphasizes predicting future traffic states across entire road networks, utilizing sparse vehicle data from stationary detectors.
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+As enthusiastic participants, our team, ywei, achieved a commendable 7th place in the core challenge, demonstrating our inventive and efficacious approach to spatio-temporal prediction. A technical report detailing our simple, yet highly efficient model based on the [LinkX framework](https://arxiv.org/abs/2110.14446) can be found [here](https://github.com/Ye-We1/Traffic4cast2022/blob/master/paper.pdf). This model provides valuable insights into the potential of machine learning for addressing real-world traffic prediction challenges.
