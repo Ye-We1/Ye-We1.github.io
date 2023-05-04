@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "Loughborough University, Department of Computer Science"
-date: 2023-01-01
+date: 2023-05-01
 location: "Loughborough, UK"
 ---
 
