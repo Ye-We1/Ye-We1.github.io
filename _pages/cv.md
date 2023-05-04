@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* Oct. 2021 - Present: Phd Research
+* Oct. 2021 - Present: PhD Research
   * Using MATSim, an agent-based modelling framework, to implement transportation simulation
   * Visualisation and classification of Origin-Destination (OD) matrix in different time intervals by applying dimension reduction techniques to OD dataset provided by Telefonica
   * Spatial-temporal traffic prediction based on Graph Neural Network (GNN)
