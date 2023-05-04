@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, AI and Applied Machine Learning Module (Feb. 2023 – Mar 2023)"
+title: "Teaching Assistant, AI and Applied Machine Learning Module (Feb. 2023 – Mar. 2023)"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2023-spring-teaching-1
