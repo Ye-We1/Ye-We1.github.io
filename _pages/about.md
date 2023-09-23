@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-Hello and welcome to my personal website! My name is Ye Wei, and I am currently a second-year PhD student at Loughborough University, where I am pursuing my passion for Computer Science. My research interests lie at the intersection of graph neural networks, time-series forecasting, spatial-temporal prediction, and mobility. As a dedicated researcher, I am driven by the desire to push the boundaries of our understanding in these areas, and to contribute to the advancement of technology that can have a profound impact on our daily lives.
+Hello and welcome to my personal website! My name is Ye Wei, and I am currently a third-year PhD student at Loughborough University, where I am pursuing my passion for Computer Science. My research interests lie at the intersection of graph neural networks, time-series forecasting, spatial-temporal prediction, and mobility. As a dedicated researcher, I am driven by the desire to push the boundaries of our understanding in these areas, and to contribute to the advancement of technology that can have a profound impact on our daily lives.
 
 ## Research Interests
 
