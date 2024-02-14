@@ -17,4 +17,4 @@ I earned my Bachelor's degree in Electrical and Computer Engineering from Shangh
 Recent highlights:
 
 - October 2023: Became an [enrichment student](https://www.turing.ac.uk/people/enrichment-students/ye-wei) at the Alan Turing Institute.
-- December 2022: Our lightweight model achieved 7th place in the NeurIPS 2022 Traffic4cast competition.
+- December 2022: Our lightweight model achieved 7th place in the [NeurIPS 2022 Traffic4cast competition](https://neurips.cc/virtual/2022/competition/50080).
