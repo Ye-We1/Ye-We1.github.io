@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-My CV is available for download [here](CV(Ye).pdf).
+My CV is available for download [here](https://drive.google.com/file/d/1i9_0sHC7Znf8Yi8961cFLd8eWsMQzxVn/view?usp=sharing).
 
