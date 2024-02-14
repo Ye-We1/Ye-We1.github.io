@@ -8,9 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-## Introduction
+Welcome to my personal website!
 
-Hello and welcome to my personal website! My name is Ye Wei, and I am currently a third-year PhD student at Loughborough University, where I am pursuing my passion for Computer Science. My research interests lie at the intersection of graph neural networks, time-series forecasting, spatial-temporal prediction, and mobility. As a dedicated researcher, I am driven by the desire to push the boundaries of our understanding in these areas, and to contribute to the advancement of technology that can have a profound impact on our daily lives.
+I'm Ye Wei, a third-year PhD student at Loughborough University with a passion for traffic forecasting and spatio-temporal prediction. As a dedicated researcher, I'm driven to develop technologies that can make a positive impact on our daily lives.
+
+I earned my Bachelor's degree in Electrical and Computer Engineering from Shanghai Jiao Tong University, where I also gained valuable experience as a research assistant in the Advanced Network Laboratory and the Laboratory for Emerging Memory and Low Power Computing.
+
+Recent highlights:
+
+October 1, 2023: Joined the Alan Turing Institute as an enrichment student.
+December 12, 2022: Our lightweight model achieved 7th place in the NeurIPS 2022 Traffic4cast competition.
+
+<!-- ## Introduction
+
+Hello and welcome to my personal website! My name is Ye Wei, and I am currently a third-year PhD student at Loughborough University. My research interests lie at the intersection of traffic forecasting and spatio-temporal prediction. As a dedicated researcher, I hope to contribute to the advancement of technologies that can have a profound impact on our daily lives.
 
 ## Research Interests
 
@@ -35,4 +46,4 @@ My ultimate goal is to contribute to the development of cutting-edge technologie
 ## Contact
 
 Thank you for visiting my website! Feel free to explore my research projects, publications, and blog for more information about my work. If you have any questions or would like to discuss potential collaborations, please do not hesitate to get in touch via the contact page.
-
+ -->
