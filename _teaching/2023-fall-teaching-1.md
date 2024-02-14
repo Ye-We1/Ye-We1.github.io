@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant, COP507 Computer Vision Module (Feb. 2023)"
+title: "Teaching Assistant, COB120 Computer Graphics Module (Oct. 2023 - Dec. 2023)"
 collection: teaching
-type: "Postgraduate course"
-permalink: /teaching/2023-spring-teaching-3
+type: "Undergraduate course"
+permalink: /teaching/2023-fall-teaching-1
 venue: "Loughborough University, Department of Computer Science"
-date: 2023-02-01
+date: 2023-10-01
 location: "Loughborough, UK"
 ---
 
