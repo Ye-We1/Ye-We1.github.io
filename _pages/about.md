@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website!
 
-I'm Ye Wei, a third-year PhD student at Loughborough University. As a dedicated researcher, I'm driven to develop technologies that can make a positive impact on our daily lives.
+I'm Ye Wei, a PhD student at Loughborough University. As a dedicated researcher, I'm driven to develop technologies that can make a positive impact on our daily lives.
 
 I earned my Bachelor's degree in Electrical and Computer Engineering from Shanghai Jiao Tong University, where I also gained valuable experience as a research assistant in the Advanced Network Laboratory and the Laboratory for Emerging Memory and Low Power Computing.
 
