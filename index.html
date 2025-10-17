@@ -1,12 +1,49 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=https://www.rdm.ox.ac.uk/people/ye-wei" />
-  <title>Redirecting...</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Redirecting…</title>
+
+  <!--
+    Hide everything immediately to avoid any visual flash.
+    We only allow a tiny bit of visible content if JS/CSS fail.
+  -->
+  <style>
+    /* hide everything until redirect happens */
+    html,body{height:100%;margin:0;padding:0}
+    body{visibility:hidden;font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#fff}
+    /* visible fallback container if CSS or JS are disabled */
+    #fallback{visibility:visible;margin:1rem}
+  </style>
+
+  <!--
+    Primary redirect: run as early as possible.
+    Use location.replace so the previous URL is not left in history.
+    Replace the URL below with your destination (permanent target).
+  -->
+  <script>
+    (function(){
+      try {
+        // very early redirect
+        location.replace("https://www.rdm.ox.ac.uk/people/ye-wei");
+      } catch (e) {
+        // if replace fails, fall back to href
+        window.location.href = "https://www.rdm.ox.ac.uk/people/ye-wei";
+      }
+    })();
+  </script>
+
+  <!-- Fallback for users without JS (meta refresh) -->
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=https://www.rdm.ox.ac.uk/people/ye-wei" />
+  </noscript>
 </head>
 <body>
-  <p>If you’re not redirected automatically, <a href="https://www.rdm.ox.ac.uk/people/ye-wei">click here</a>.</p>
+  <!-- Shown only if both CSS and JS are disabled or blocked -->
+  <div id="fallback">
+    <p>If you are not redirected automatically, <a href="https://www.rdm.ox.ac.uk/people/ye-wei">click here</a>.</p>
+  </div>
 </body>
 </html>
 
